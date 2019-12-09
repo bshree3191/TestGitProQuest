@@ -6,4 +6,5 @@
 
 
 Run Test2 Class File ( to open ProQuest website from all results search for QA in Top and take ScreenShot and save to the file)
-> open the result file 
+> Open the result file 
+> To check the result 
