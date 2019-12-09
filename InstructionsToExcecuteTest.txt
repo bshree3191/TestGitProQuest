@@ -1,1 +1,9 @@
-Complete Instructions to Instructions To Excecute Test
+> Complete Instructions to Instructions To Excecute Test
+> open Eclipse 
+> Run the Test1 file with java Appliaction (To Navigate to Google search results and count the titles of all results on First page to text file on the operating system
+
+> once Test1 classfile runs open the txt file 
+
+
+Run Test2 Class File ( to open ProQuest website from all results search for QA in Top and take ScreenShot and save to the file)
+> open the result file 
