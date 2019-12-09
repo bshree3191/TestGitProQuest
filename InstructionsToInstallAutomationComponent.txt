@@ -1,1 +1,12 @@
 Complete Instructions to install all Automation component 
+Step 1 - SetUp: Download Java,Eclipse and selenium webdriver 
+
+java:  https://www.java.com/en/
+Eclipse: https://www.eclipse.org/
+
+
+Step 2 - Create a Java Project in Eclipse
+
+Step 3 - Add selenium jars
+http://www.seleniumhq.org/
+
